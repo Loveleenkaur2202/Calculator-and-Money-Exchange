@@ -1,0 +1,20 @@
+﻿France
+Euro
+1.04
+0.9615
+Canada
+C.N. Dollars
+0.75
+1.34
+England
+Pound
+1.21
+0.826
+Japan
+Yen
+0.0072
+138.89
+India
+INR
+0.012
+83.34

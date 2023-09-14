@@ -1,0 +1,16 @@
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\bin\Debug\PrjWinCsFinalProject.exe.config
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\bin\Debug\PrjWinCsFinalProject.exe
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\bin\Debug\PrjWinCsFinalProject.pdb
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.csproj.AssemblyReference.cache
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.frmMain.resources
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.Properties.Resources.resources
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.csproj.GenerateResource.cache
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.exe
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.pdb
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.frmAbout.resources
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.frmUserManual.resources
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.frmStandard.resources
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.frmScientific.resources
+C:\Users\lovel\source\repos\lasalle\fall 2022\420-CT2-AS\PrjWinCsFinalProject\PrjWinCsFinalProject\obj\Debug\PrjWinCsFinalProject.frmChange.resources
