@@ -15,3 +15,5 @@ Calculate percentages.
 Convert between different currencies(like euro,cad,pound,rupees to usd or vice versa)
 Allows users to enter the amount and select the source and target currencies.
 Displays the converted amount.
+
+Download the zip folder and run on your device.
